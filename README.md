@@ -1,6 +1,6 @@
 # tarea3
 
-Integrantes: \n
+Integrantes: 
 
-Carlos Vargas 5095798 \n
+Carlos Vargas 5095798
 Luis Zarza 4772936
